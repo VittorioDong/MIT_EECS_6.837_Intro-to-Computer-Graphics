@@ -1,0 +1,10 @@
+﻿  Reading Qt configuration (D:/Software/Qt/5.14.2/msvc2017_64/bin/qmake)
+  moc MainWindow.h
+  moc glwidget.h
+  glwidget.cpp
+  MainWindow.cpp
+  main.cpp
+  qrc_MainWindow.cpp
+  moc_MainWindow.cpp
+  moc_glwidget.cpp
+  L-systems.vcxproj -> E:\Code\VS2022Project\L-systems\x64\Release\L-systems.exe
