@@ -1,10 +1,36 @@
-# MIT_EECS_6.837_Intro-to-Computer-Graphics
-I am excited to share that I have successfully completed the programming assignments of the "Intro to Computer Graphics" (MIT 6.837) course. The course provided a comprehensive understanding of the fundamental principles of computer graphics. From learning about the graphical pipeline to understanding and implementing complex algorithms such as Ray Tracing, it was an exhilarating experience.
+## Introduction
 
-The project includes multiple assignments, each targeting a specific aspect of computer graphics such as Transformations, Hierarchical Modeling, Camera, Lights and Materials, Ray Casting and Ray Tracing. Each one has provided me with a unique challenge and the opportunity to delve deeper into the subject matter.
+I'm pleased to share my successfully completed programming assignments from the "Intro to Computer Graphics" (MIT 6.837) course. This course offered an in-depth understanding of the core principles of computer graphics, covering topics from the graphical pipeline to complex algorithms such as Ray Tracing.
 
-You'll find each assignment meticulously completed, with code that's as clear and clean as possible. I've ensured to comment extensively to aid comprehension and encourage further exploration.
+This project encompasses a series of assignments each focusing on a different aspect of computer graphics like Transformations, Hierarchical Modeling, Camera, Lights and Materials, Ray Casting and Ray Tracing. Each assignment presented its unique challenges, giving me the chance to dive deep into the subject.
 
-Feel free to explore the repository. I hope that my work on these assignments can serve as a useful resource for other computer graphics enthusiasts and learners out there. For those wanting to learn more about computer graphics, I highly recommend this course!
+## Repository Structure
 
-Special thanks to MIT and the course instructors for providing such a valuable resource.
+In this repository, you will find each assignment organized in their respective directories. Each directory contains all the necessary source files and resources.
+
+## Requirements & Setup
+
+To run this project, you'll need the following:
+
+1. A compiler supporting C++11
+2. OpenGL library
+3. FreeGLUT library
+
+## Rendered Images
+
+Below are some rendered images from the project:
+
+
+
+![image-20230729131543425](./README.assets/image-20230729131543425.png)
+
+![image-20230729131501714](./README.assets/image-20230729131501714.png)
+
+<img src="./README.assets/20.png" alt="20" style="zoom:60%;" />
+
+## Conclusion
+
+The project stands as a testament to my journey in understanding and implementing computer graphics principles. I encourage exploration and hope my work can serve as a beneficial resource to fellow graphics enthusiasts and learners.
+
+I highly recommend the "Intro to Computer Graphics" (MIT 6.837) course to anyone looking to further their knowledge in computer graphics. My gratitude goes out to MIT and the course instructors for making such an insightful resource available.
+
