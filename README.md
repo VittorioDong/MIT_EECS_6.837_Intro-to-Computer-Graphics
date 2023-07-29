@@ -26,7 +26,7 @@ Below are some rendered images from the project:
 
 ![image-20230729131501714](./README.assets/image-20230729131501714.png)
 
-<img src="./README.assets/20.png" alt="20" style="zoom:60%;" />
+![image-20230729131501714](./README.assets/20.png)
 
 ## Conclusion
 
