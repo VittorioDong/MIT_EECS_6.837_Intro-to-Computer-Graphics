@@ -1,6 +1,0 @@
-﻿  Reading Qt configuration (D:/Software/Qt/5.14.2/msvc2017_64/bin/qmake)
-  uic MainWindow.ui
-  MainWindow.cpp
-  main.cpp
-  moc_MainWindow.cpp
-  L-systems.vcxproj -> E:\Code\VS2022Project\L-systems\x64\Debug\L-systems.exe
